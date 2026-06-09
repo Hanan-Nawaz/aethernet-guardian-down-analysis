@@ -1,0 +1,6 @@
+"Priority","Recommendation"
+"High","Investigate storage subsystem health and disk performance."
+"High","Review servers with elevated temperatures and cooling efficiency."
+"Medium","Analyze network latency and packet loss trends."
+"Medium","Inspect security alerts and abnormal connection activity."
+"Low","Continue monitoring PCA anomaly scores for early warning detection."

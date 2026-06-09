@@ -1,0 +1,6 @@
+"Finding","Result"
+"Primary PCA Factor","Disk_Errors_Corrected, Disk_Queue_Depth, Disk_IO_Write_Mbps"
+"Secondary PCA Factor","Latency_ms, Memory_Usage_GB, CPU_Usage_Percent"
+"Most Affected Cluster (PC1)","Cluster_1"
+"Most Affected Cluster (PC2)","Cluster_3"
+"Most Affected Cluster (PC3)","Cluster_1"
